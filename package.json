@@ -1,0 +1,24 @@
+{
+  "name": "progamacion-funciona",
+  "version": "1.0.0",
+  "description": "API de servicios universitarios",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "ejemplo",
+    "api",
+    "rest",
+    "croud"
+  ],
+  "author": "\"Jandry Zambrano Palacios\"",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.2",
+    "nodemon": "^3.1.4"
+  }
+}
